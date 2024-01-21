@@ -1,5 +1,4 @@
-# ICSE-SEIP-2024
-[ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors   in Rust
+# [ICSE SEIP 2024] Broadly Enabling KLEE to Effortlessly Find Unrecoverable Errors in Rust
 
 The `ICSE SEIP 2024 Project & Experiment .xlsx` spreadsheet contains four sheets with details on projects, panic reports, and commit IDs:
 
